@@ -4,7 +4,8 @@
     <PreLoader />
     <HomeCover />
     <Navigation/>
-    <AboutMe/> 
+    <AboutMe/>
+    <Resume/> 
     <Footer/>
 
     <div class="scroll-up">
@@ -18,6 +19,7 @@
 import HomeCover from "./sections/HomeCover.vue";
 import Navigation from "./sections/Navigation.vue";
 import AboutMe from "./sections/AboutMe.vue";
+import Resume from "./sections/Resume.vue";
 import Footer from "./sections/Footer.vue";
 
 export default {
@@ -27,6 +29,7 @@ export default {
     HomeCover,
     Navigation,
     AboutMe,
+    Resume,
     Footer,
   },
 };
