@@ -11,6 +11,24 @@
                     </div>
                     <div class="resume">
                         <ul class="timeline">
+                            <li class="timeline-inverted">
+                                <div class="posted-date">
+                                  <span class="month">June 2018 - Present</span>
+                                </div><!-- /posted-date -->
+
+                                <div class="timeline-panel wow fadeInUp">
+                                    <div class="timeline-content">
+                                        <div class="timeline-heading">
+                                            <h3>Robotics Firmware Engineer</h3>
+                                            <span>Deep Trekker, Kitchener ON</span>
+                                        </div><!-- /timeline-heading -->
+
+                                        <div class="timeline-body">
+                                            <p>Led firmware development for 2 new submersible ROVs, implemented elegant control and state estimation algorithms for memory-limited embedded platforms</p>
+                                        </div><!-- /timeline-body -->
+                                    </div> <!-- /timeline-content -->
+                                </div> <!-- /timeline-panel -->
+                            </li>
                             <li>
                                 <div class="posted-date">
                                     <span class="month">September 2013 - April 2018</span>
