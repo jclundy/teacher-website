@@ -22,7 +22,7 @@
         <div class="collapse navbar-collapse" id="custom-collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#home">Home</a></li>
-            <li><a href="#aboutme">About Me</a></li>
+            <li><a href="#about">About Me</a></li>
             <li><a href="#resume">Resume</a></li>
           </ul>
         </div>
