@@ -14,12 +14,14 @@
 
           <ul class="list-check">
             <li>C/C++</li>
-            <li>Python</li>
-            <li>Octave/Matlab</li>
             <li>Real-time systems</li>
+            <li>Python</li>
             <li>Controls</li>
+            <li>Octave/Matlab</li>
             <li>State Estimation and Sensor Fusion</li>
+            <li>Java</li>
             <li>SLAM</li>
+            <li>ROS</li>
             <li>Computer Vision</li>
           </ul>
         </div>
