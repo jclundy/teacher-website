@@ -94,7 +94,7 @@
                                     <div class="timeline-content">
                                         <div class="timeline-heading">
                                             <h3>Software and Algorithm Developer Intern</h3>
-                                            <span>NXP Semiconductros, Gatineau QC</span>
+                                            <span>NXP Semiconductors, Gatineau QC</span>
                                         </div><!-- /timeline-heading -->
 
                                         <div class="timeline-body">
