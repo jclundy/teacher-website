@@ -1,0 +1,31 @@
+Immediate next steps
+- add high-level portfolio page
+- timeline for courses/projects?
+
+Afterwards
+- break up Deep Trekker timeline into multiple items - Revolution project lead, R&D engineer, Pivot project lead, ROV projects owner
+- make download resume button functional
+- send me a message - add me on linked in
+- add links to timeline
+
+New pages
+- Foosball Robot
+- ME 599 ADAS
+- Watvision
+- MTE 544 autonomous robots
+- Robocode Bot
+
+- Personal interests
+-- camping, 
+-- links to pages/youtube channels I follow - ACOUP.blog, the great war, ww2 youtube, drachnifel, Econ Talk, branko milanovic
+
+Future work
+
+'Work' Projects / What I've learned
+
+- UKF
+- Fuzzy Logic
+- Controls Theory?
+- magnetic calibration
+- gain scheduling
+- dealing with setpoint lag due to severe backlash
