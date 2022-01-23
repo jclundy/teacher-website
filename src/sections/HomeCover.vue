@@ -4,28 +4,22 @@
     class="tt-fullHeight"
   >
     <div class="intro">
-      <div class="intro-sub">한국어 선생님 </div>
-      <h1>Tom <span>Lee</span></h1>
+      <div class="intro-sub">Joseph Lundy </div>
+      <h1>Robotics<span> Engineer </span></h1>
       <p>
-        I am a Korean Tutor who can help you <br />
-        bring out the best of your Korean skills!
+        Interested in everything from firmware and controls to AI and ML
       </p>
 
       <div class="social-icons">
         <ul class="list-inline">
           <li>
-            <a href="https://www.instagram.com/koreantutor_tom/"
-              ><i class="fa fa-instagram"></i
+            <a href="https://www.linkedin.com/in/joseph-lundy-724b3579/"
+              ><i class="fa fa-linkedin"></i
             ></a>
           </li>
           <li>
-            <a href="https://www.italki.com/teacher/8170112/korean"
+            <a href="https://github.com/jclundy"
               ><i class="fa fa-globe"></i
-            ></a>
-          </li>
-          <li>
-            <a href="mailto:getontoml@gmail.com">
-              <i class="fa fa-envelope"></i
             ></a>
           </li>
         </ul>
