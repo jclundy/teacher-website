@@ -10,7 +10,7 @@
           <div class="video-intro">
             <a
               class="popup-video"
-              href="https://youtu.be/O_uSx8EeZ4Y"
+              href="https://www.youtube.com/watch?v=O_uSx8EeZ4Y"
             >
               <i class="fa fa-play"></i>
             </a>
