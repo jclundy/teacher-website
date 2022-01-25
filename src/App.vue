@@ -5,7 +5,8 @@
     <HomeCover />
     <Navigation/>
     <AboutMe/>
-    <Resume/> 
+    <Resume/>
+    <Uwaft/> 
     <Footer/>
 
     <div class="scroll-up">
@@ -21,6 +22,7 @@ import Navigation from "./sections/Navigation.vue";
 import AboutMe from "./sections/AboutMe.vue";
 import Resume from "./sections/Resume.vue";
 import Footer from "./sections/Footer.vue";
+import Uwaft from "./sections/Uwaft.vue";
 
 export default {
   name: "App",
@@ -30,6 +32,7 @@ export default {
     Navigation,
     AboutMe,
     Resume,
+    Uwaft,
     Footer,
   },
 };
